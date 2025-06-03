@@ -1,4 +1,4 @@
-# Final Project – Network Services Implementation
+# Network Services Implementation
 
 Hello! I'm **Daniel Troya** (`chickenux`)
 Welcome to my GitHub!
