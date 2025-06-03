@@ -39,9 +39,6 @@ Here’s what you’ll find in this repository:
 - `FINAL_PROJECT.pdf`: 
   This is a complete documentation file containing technical explanations, service configuration steps, commands used, and troubleshooting tips. It's very useful if you need guidance on how something works or how to run it.
 
-- `GNS3/` folder:
-  This folder contains the GNS3 project files (`.gns3project`, topology, etc.) so you can open and use them directly in GNS3.
-
 ---
 
 > 🐧 Made with Linux and caffeine.
